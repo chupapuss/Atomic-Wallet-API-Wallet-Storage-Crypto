@@ -1,6 +1,7 @@
 
 
 
+
 <p align="center">
   <a href="https://www.npmjs.com/package/verify-coldcard-dice-seed">
     <img src="https://img.shields.io/npm/v/verify-coldcard-dice-seed" alt="NPM Version">
